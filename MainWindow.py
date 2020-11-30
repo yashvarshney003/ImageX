@@ -13,7 +13,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QInputDialog, QLineEdit, QFileDialog, QHBoxLayout, QLabel, QTextEdit
 from PyQt5.QtGui import QIcon, QPixmap  
 import webbrowser
-from srgan import train, sample_images
+#from srgan import train, sample_images
 
 
 class Ui_Dialog(object):
@@ -124,7 +124,7 @@ class Ui_Dialog(object):
             pixmap3 = pixmap.scaledToHeight(400)
             self.label_2.setPixmap(pixmap3)
             #testing 
-            sample_images(1000)
+            #sample_images(1000)
             self.showImg()
 
 

@@ -21,8 +21,23 @@ For builidng this you need to run `python3 ImageX_desktopApp.py`. This will open
 
 <table>
     <tr>
-          <td><img height="500" src="https://raw.githubusercontent.com/jaindiv26/Codeforces/master/screenshots/Screenshot_2019-11-18-17-47-19-033_com.example.android.codeforces.png" /><br /><center><b>Desktop app</b></center></td>
+          <td><img height="250" src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/Screenshot%20from%202020-12-01%2001-58-13.png" /><br /><center><b>Desktop app</b></center></td>
     </tr>
+</table>
+
+
+<table>
+
+<tr>
+    <td><img height="250" src="https://github.com/robustTechie/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-14-21.png?raw=true"  /><br /><center><b>Low resolution Image</b></center>
+    <td><img height="250" src="https://github.com/robustTechie/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-14-26.png?raw=true" /><br /><center><b>LR 2 image</b></center></td><td><img height="250" src="https://github.com/robustTechie/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-14-16.png?raw=true" /><br /><center><b>HR  generated Image</b></center></td> <td><img height="250" src="https://github.com/robustTechie/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-13-59.png?raw=true" /><br /><center><b>Original HR Image</b></center></td>
+    </td>
+    </tr>
+    <tr>
+    <td><img height="250" src="https://github.com/robustTechie/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-15-02.png?raw=true"  /><br /><center><b>Low resolution Image</b></center>
+    <td><img height="250" src="https://github.com/robustTechie/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-15-09.png?raw=true" /><br /><center><b>LR 2 image</b></center></td><td><img height="250" src="https://github.com/robustTechie/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-14-55.png?raw=true" /><br /><center><b>HR  generated Image</b></center></td> <td><img height="250" src="https://github.com/robustTechie/ImageX/blob/main/screenshot/Screenshot%20from%202020-12-01%2002-15-31.png?raw=true" /><br /><center><b>Original HR Image</b></center></td>
+    </tr>
+
 </table>
 
 ### Todo
